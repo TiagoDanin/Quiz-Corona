@@ -1,2 +1,2 @@
 # Quiz-Corona
-Samples app (Quiz for CoronaSDK)
+Sample app (Quiz for CoronaSDK)
